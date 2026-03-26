@@ -177,9 +177,9 @@ int main() {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,50:a78bfa,100:0a0a0f&height=100&section=footer&fontColor=ffffff" width="100%"/>
 
 ```
-[sarvasya@github ~]$ echo "thanks for visiting — drop a ⭐ if you liked it"
+[inaslon@github ~]$ echo "thanks for visiting — drop a ⭐ if you liked it"
 thanks for visiting — drop a ⭐ if you liked it
-[sarvasya@github ~]$ _
+[inaslon@github ~]$ _
 ```
 
 </div>
