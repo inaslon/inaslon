@@ -29,7 +29,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-struct Sarvasya {
+struct inaslon {
     string  lang    = "C++ (primary)";
     string  focus   = "DSA + Competitive Programming";
     string  also    = "Full Stack · Open Source · Builder";
@@ -53,7 +53,7 @@ struct Sarvasya {
 };
 
 int main() {
-    Sarvasya s;
+    inaslon s;
     while (s.alive) { s.solve(); s.learn(); s.build(); }
 }
 ```
